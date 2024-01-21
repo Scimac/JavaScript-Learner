@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "e31b24e827d39501",
+    "type": "split",
+    "children": [
+      {
+        "id": "47dcb898698cc68b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e52f0eaf5b1fa10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b87bb3f3efe6689d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0629f2e21fb3db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fff73c22ff645752",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71764af6c7722e56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39b0878155f4dd21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "e60370a7585d9589",
+    "type": "split",
+    "children": [
+      {
+        "id": "72a30d6875874122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda51ae79afc2bde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bb7bf60c44f9eff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4498caa49ad0c13b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a5e581838e20bfd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5e52f0eaf5b1fa10",
+  "lastOpenFiles": [
+    "Syntax and linkings.md",
+    "03. Functions/17. Memoization in Functions.md",
+    "03. Functions/Functions in JS.md",
+    "03. Functions/14. Functions Binding.md",
+    "03. Functions/12. Closures.md",
+    "03. Functions/11.Asynchronous Functions.md",
+    "03. Functions/09. Method Functions.md",
+    "03. Functions/07 Higher-Order Functions.md",
+    "03. Functions/05 Anonymous Functions.md",
+    "03. Functions/01. What is a Function.md",
+    "01. Variable and Data types/01. Intro to Variables.md",
+    "README.md",
+    "React_INC_Tuts.md",
+    "00. JavaScript - A scripting language/General Notes.md",
+    "00. JavaScript - A scripting language/Javascript.md",
+    "00. JavaScript - A scripting language",
+    "extras/Error handling.md",
+    "03. Functions/16. Function Decorators.md",
+    "03. Functions/15. Function Composition.md",
+    "03. Functions/13. Currying and Curried Functions.md",
+    "extras/Rest parameters and Spread syntax.md",
+    "03. Functions/10. Callback Functions.md",
+    "03. Functions/08. Constructor Functions.md",
+    "03. Functions/03.Function declaration and its types.md",
+    "03. Functions/06. IIFE (Immediately Invoked Function Expression).md",
+    "03. Functions/07. Generator Functions.md",
+    "03. Functions/06. Arrow Functions.md"
+  ]
+}

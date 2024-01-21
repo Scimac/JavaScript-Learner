@@ -1,2 +1,3 @@
 # JavaScript-Learner
-Learning JavaScript as I learnt it.
+
+Learning JavaScript as I learnt it!
