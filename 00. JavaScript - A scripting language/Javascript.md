@@ -1,5 +1,8 @@
-```toc
-`````
+- [[#What is JS?|What is JS?]]
+- [[#Learning JS|Learning JS]]
+	- [[#Learning JS#Basics of JS|Basics of JS]]
+	- [[#Learning JS#[[Syntax and linkings]]|[[Syntax and linkings]]]]
+	- [[#Learning JS#[[Strict mode in JS]]|[[Strict mode in JS]]]]
 
 ## What is JS?
 
@@ -24,5 +27,5 @@ Some of the uses of Javascript include:
 
 ### Basics of JS
 
-### [[Syntax and linkings]]
-### [[Strict mode in JS]]
+### Syntax and linkings
+### Strict mode in JS

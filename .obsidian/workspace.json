@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "47dcb898698cc68b",
+        "id": "9ab77a80679f7d09",
         "type": "tabs",
         "children": [
           {
-            "id": "5e52f0eaf5b1fa10",
+            "id": "202cf2077979ad6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05. OOPs in JS/04. Designing an OO Program.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "05. OOPs in JS/04. Designing an OO Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "05. OOPs in JS/04. Designing an OO Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "05. OOPs in JS/04. Designing an OO Program.md"
+              }
             }
           }
         ]
@@ -138,34 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e52f0eaf5b1fa10",
+  "active": "202cf2077979ad6d",
   "lastOpenFiles": [
-    "Syntax and linkings.md",
-    "03. Functions/17. Memoization in Functions.md",
-    "03. Functions/Functions in JS.md",
-    "03. Functions/14. Functions Binding.md",
-    "03. Functions/12. Closures.md",
-    "03. Functions/11.Asynchronous Functions.md",
-    "03. Functions/09. Method Functions.md",
-    "03. Functions/07 Higher-Order Functions.md",
-    "03. Functions/05 Anonymous Functions.md",
-    "03. Functions/01. What is a Function.md",
-    "01. Variable and Data types/01. Intro to Variables.md",
-    "README.md",
-    "React_INC_Tuts.md",
-    "00. JavaScript - A scripting language/General Notes.md",
-    "00. JavaScript - A scripting language/Javascript.md",
-    "00. JavaScript - A scripting language",
-    "extras/Error handling.md",
-    "03. Functions/16. Function Decorators.md",
-    "03. Functions/15. Function Composition.md",
-    "03. Functions/13. Currying and Curried Functions.md",
-    "extras/Rest parameters and Spread syntax.md",
-    "03. Functions/10. Callback Functions.md",
-    "03. Functions/08. Constructor Functions.md",
-    "03. Functions/03.Function declaration and its types.md",
-    "03. Functions/06. IIFE (Immediately Invoked Function Expression).md",
+    "More Learnings in JS.md",
+    "05. OOPs in JS/04. Designing an OO Program.md",
+    "05. OOPs in JS/02. OOPS vs Procedural Programming.md",
+    "05. OOPs in JS/02. Object and Classes creation in JS.md",
     "03. Functions/07. Generator Functions.md",
-    "03. Functions/06. Arrow Functions.md"
+    "03. Functions/03.Function declaration and its types.md",
+    "03. Functions/18. Pure and Impure Functions in JS.md",
+    "08. JS ES6+ and specials/Modules and Imports in JavaScript.md",
+    "08. JS ES6+ and specials/Destructuring in JS.md",
+    "08. JS ES6+ and specials/Modules - Advanced Topics.md",
+    "JS topics.md",
+    "06. Data Structures in JS",
+    "11. JS Testing/03. Topics to explore.md",
+    "extras/Untitled.md",
+    "11. JS Testing/02. JEST - JS testing library.md",
+    "11. JS Testing/01. Testing and Test-Driven Development (TDD) in JavaScript.md",
+    "Topics to cover/JavaScript interactivity.md",
+    "11. JS Testing",
+    "09. Advance JS",
+    "07. Asynchronous Programming",
+    "06. DOM Manipulation",
+    "08. JS ES6+ and specials/Modules - CommonJS vs. ES6 Modules.md",
+    "08. JS ES6+ and specials/Template Literals in JS.md",
+    "02. Operators, Conditional and loop blocks/04. Loops in JS.md",
+    "07. Modules",
+    "Meta JS Course.md",
+    "01. Variable and Data types/Variables in JS.md",
+    "08. JS ES6+ and specials/Structured Cloning in JS.md",
+    "06. Data Structures in JS/Strings in JS.md",
+    "Topics to cover/Strict mode in JS.md",
+    "Topics to cover/Scope in JS.md",
+    "08. JS ES6+ and specials",
+    "05. OOPs in JS/OOPS Learnings.md",
+    "05. OOPs in JS",
+    "00. JavaScript - A scripting language"
   ]
 }
